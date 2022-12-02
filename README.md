@@ -1,7 +1,7 @@
 # permissionless_assingment
 created jwt login with nodemailer to send email
 
-# Creted simple signup/ login api conected with database to store userdata along woth hashed password . once he/she sign-up a mail is sent using nodemailer and also created jwt login 
+# Creted simple signup/ login api conected with database to store userdata along with hashed password . once he/she sign-up a mail is sent using nodemailer and also created jwt login 
 
 ## example of email sent
 ![Pseudo -veifiy your mail - gaurav@ovonts com - Ovonts Mail](https://user-images.githubusercontent.com/64638825/205273500-9c69ba9e-333e-48f0-906d-97fef72271db.png)
